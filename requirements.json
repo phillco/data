@@ -1,0 +1,113 @@
+{
+    "name": "requirements.json",
+    "description": "Defines all of the requirement codes used by courses at Austin College. Requirements with the isDiscipline field set to true aren't really requirements; they indicate that the courses counts towards that particular interdisciplinary major or minor.",
+    "version": 1,
+    "formatVersion": 1,
+    "list": [
+        {
+            "code": "HU",
+            "name": "Humanities",
+            "isDiscipline": false
+        },
+        {
+            "code": "SC",
+            "name": "Science",
+            "isDiscipline": false
+        },
+        {
+            "code": "SS",
+            "name": "Social Science",
+            "isDiscipline": false
+        },
+        {
+            "code": "NLS",
+            "name": "Non-Lab Science",
+            "isDiscipline": false
+        },
+        {
+            "code": "Q",
+            "name": "Quantitative",
+            "isDiscipline": false
+        },
+        {
+            "code": "L",
+            "name": "Language",
+            "isDiscipline": false
+        },
+        {
+            "code": "R",
+            "name": "Half Writing",
+            "isDiscipline": false
+        },
+        {
+            "code": "W",
+            "name": "Full Writing",
+            "isDiscipline": false
+        },
+        {
+            "code": "AS",
+            "name": "Asian Studies",
+            "isDiscipline": true
+        },
+        {
+            "code": "ES",
+            "name": "Environmental Studies",
+            "isDiscipline": true
+        },
+        {
+            "code": "GN",
+            "name": "Gender Studies",
+            "isDiscipline": true
+        },
+        {
+            "code": "LA",
+            "name": "Latin American Studies",
+            "isDiscipline": true
+        },
+        {
+            "code": "SW",
+            "name": "Southwest and Mexican Studies",
+            "isDiscipline": true
+        },
+        {
+            "code": "WIT",
+            "name": "Western Intellectual Tradition",
+            "isDiscipline": true
+        },
+        {
+            "code": "FLM",
+            "name": "Film Studies",
+            "isDiscipline": true
+        },
+        {
+            "code": "CSP",
+            "name": "Community Service and Policy",
+            "isDiscipline": true
+        },
+        {
+            "code": "AM",
+            "name": "American Studies",
+            "isDiscipline": true
+        },
+        {
+            "code": "COG",
+            "name": "Cognitive Science",
+            "isDiscipline": true
+        },
+        {
+            "code": "GSTS",
+            "name": "Global Science, Technology and Society",
+            "isDiscipline": true
+        },
+        {
+            "code": "LD",
+            "name": "Leadership",
+            "isDiscipline": true
+        },
+        {
+            "code": "TOP",
+            "name": "Topics",
+            "isDiscipline": true
+        }
+    ]
+}
