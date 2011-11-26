@@ -60,7 +60,7 @@
       "name": "Biology"
    },
    {
-      "description": "A major in biochemistry consists of (Chemistry 111  (or  Chemistry 211), Chemistry 112, Chemistry 221, 222, 351, 352, 480;  two  elective chemistry courses from among 332, 341, 342, 412 or 421; two   elective biology courses, from among: Biology 248, 228, 230, 344, 345.   Prerequisite courses include Physics 105 or 111, Physics 106 or 112,   Mathematics 151, 152, and Biology 115, 116.<\/p>",
+      "description": "<p>A major in biochemistry consists of (Chemistry 111  (or  Chemistry 211), Chemistry 112, Chemistry 221, 222, 351, 352, 480;  two  elective chemistry courses from among 332, 341, 342, 412 or 421; two   elective biology courses, from among: Biology 248, 228, 230, 344, 345.   Prerequisite courses include Physics 105 or 111, Physics 106 or 112,   Mathematics 151, 152, and Biology 115, 116.<\/p>",
       "department": "Chemistry",
       "isMajor": true,
       "name": "Biochemistry"
