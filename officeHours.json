@@ -1,0 +1,49 @@
+{
+    "name": "officeHours.json",
+    "description": "Defines professor's office hours for the current (given) term.",
+    "term": "11FA",
+    "version": 1,
+    "formatVersion": 1,
+    "list": [
+        {
+            "name": "Michael Higgs",
+            "hours": [
+                "MW 01:00PM 02:00PM",
+                "TTH 11:00AM 12:00PM"
+            ]
+        },
+        {
+            "name": "Aaron Block",
+            "hours": [
+                "MWF 11:00AM 01:30PM"
+            ]
+        },
+        {
+            "name": "J'Lee Bumpus",
+            "hours": [
+                "MW 03:00PM 04:30PM"
+            ]
+        },
+        {
+            "name": "David Baker",
+            "hours": [
+                "MWF 03:00PM 04:00PM"
+            ]
+        },
+        {
+            "name": "E. Don Williams",
+            "hours": [
+                "MTWTH 03:15PM 04:30PM"
+            ]
+        },
+        {
+            "name": "Keith Kisselle",
+            "hours": [
+                "M 01:30PM 03:30PM",
+                "T 08:30AM 11:00AM",
+                "W 02:00PM 05:00PM",
+                "F 12:00PM 01:00PM"
+            ]
+        }
+    ]
+}
